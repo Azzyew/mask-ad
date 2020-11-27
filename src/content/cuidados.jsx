@@ -1,0 +1,3 @@
+const cuidados = "Caso seja uma máscara caseira é recomendado lavar a máscara separadamente de roupas e outros itens, limpar com água corrente com sabão neutro, deixar de molho por uns 30 minutos em uma solução feita com um litro de água e duas colheres de sopa de água sanitária, enxaguar sem torcer com força e colocar para secar, passe um ferro quente, guarde em recipiente fechado e é recomendado o descarte quando completarem 30 lavagens ou se tiver danos, como alça quebrada, furos ou cortes.";
+
+export default cuidados;
